@@ -1,5 +1,15 @@
 # Face Recognition Based Attendance System (Mini-Project) - June 2022
 
+
+The proposed system is a software system that will mark attendance using facial recognition. In this project, we used an OpenCV module integrated with Python which will help the institution to make the attendance process easy and efficient instead of using the algorithm. So Machine Learning is one of the exciting domains that enables the machine to train itself by providing some datasets as input and providing an appropriate output during testing.
+
+
+
+[face recognition based attendance system.pdf](https://github.com/Praveenajw/face-recognition-attendance-mini-project/files/10607811/face.recognition.based.attendance.system.pdf)
+
+# Screenshots!
+
+
 # Dataset Creator Terminal
 ![Dataset](https://user-images.githubusercontent.com/82393502/216368272-b0d54470-14d6-43da-b0b3-0b893bf0baab.png)
 
